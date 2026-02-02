@@ -17,20 +17,20 @@
   "ffmpeg-static": {
     "binary-path-env-var": "FFMPEG_BIN",
     "binary-release-tag-env-var": "FFMPEG_BINARY_RELEASE",
-    "binary-release-tag": "b6.1.1",
+    "binary-release-tag": "b8.0.1",
     "binaries-url-env-var": "FFMPEG_BINARIES_URL",
     "executable-base-name": "ffmpeg"
   },
   "@derhuerst/ffprobe-static": {
     "binary-path-env-var": "FFPROBE_BIN",
     "binary-release-tag-env-var": "FFPROBE_BINARY_RELEASE",
-    "binary-release-tag": "b6.1.1",
+    "binary-release-tag": "b8.0.1",
     "binaries-url-env-var": "FFPROBE_BINARIES_URL",
     "executable-base-name": "ffprobe"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eugeneware/ffmpeg-static"
+    "url": "https://github.com/ncryptedV1/ffmpeg-static"
   },
   "keywords": [
     "ffmpeg",
@@ -53,7 +53,7 @@
   ],
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/eugeneware/ffmpeg-static/issues"
+    "url": "https://github.com/ncryptedV1/ffmpeg-static/issues"
   },
   "engines": {
     "node": ">=16"
